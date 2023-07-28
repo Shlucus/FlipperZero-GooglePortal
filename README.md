@@ -1,10 +1,17 @@
 # FlipperZero-GooglePortal
-This is a <ins>better</ins> Google portal for [bigbrodude6119](https://github.com/bigbrodude6119)'s EvilPortal for the Flipper-Zero.
+This is a <ins>better</ins> Google portal I've created for [bigbrodude6119](https://github.com/bigbrodude6119)'s EvilPortal for the Flipper-Zero.
 
 
-- ${\color{red}   CAUTION    }$: This code is intended for <ins>educational purposes</ins> **ONLY**! Any misuse of this resource could lead to severe consequences and can be considered an Illegal act. I do not condone any unethical and/or harmful usage of this resource and it should be used under a controlled environment only. You have been warned.
+- ${\color{red}   CAUTION    }$: This is intended for <ins>educational purposes</ins> **ONLY**! Any misuse of this resource can lead to severe consequences and be considered an Illegal act. I do not condone any unethical and/or harmful usage of this resource and it should be used under a controlled environment only. You have been warned.
 
 ![Screenshot 2023-07-28 130143](https://github.com/Shlucus/FlipperZero-GooglePortal/assets/111912000/3f6afb11-8372-45ba-83b7-d631aa62909e)
+
+## Features:
+
+- Responsive Web Design (Mobile & Desktop).
+- Cursor hover and transition animations.
+- Working language dropdown menu.
+- Resembles Google's modern UI.
 
 ## Instructions:
 
