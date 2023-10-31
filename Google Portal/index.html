@@ -46,8 +46,15 @@
     <!--   ------------------------------------- CSS ------------------------------------------------    -->
 
     <style>
+
         body {
             font-family: 'roboto', sans-serif;
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            align-items: center;
+            height: 100vh; /* This ensures the body takes the full height of the viewport. */
+            margin: 0;
         }
 
         .fade-in {
@@ -65,14 +72,14 @@
             }
         }
 
+        
+
         .login-container {
             width: 368px;
-            margin: 0 auto;
             padding: 40px;
             padding-bottom: 60px;
             border: #e9e9e9 1px solid;
             border-radius: 10px;
-            margin-top: 12vh;
         }
 
         #logo {
@@ -110,7 +117,7 @@
         }
 
         .gbtn-primary {
-            height: 40px;
+            height: 35px;
             width: 85px;
             color: #fff;
             background-color: #1a73e8;
@@ -208,7 +215,7 @@
         /*----------V----------- Footer Stuff --------------V------------*/
 
         .footer {
-            margin: auto;
+            margin-top: 10px;
             width: 450px;
             display: flex;
             flex-direction: row;
