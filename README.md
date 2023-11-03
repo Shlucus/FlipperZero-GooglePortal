@@ -15,7 +15,7 @@ This is a <ins>better</ins> Google portal I've created for [bigbrodude6119](http
 
 ## Instructions:
 
-If you have [bigbrodude6119](https://github.com/bigbrodude6119)'s first released firmware flashed onto your WifiDevBoard (evil-portal-0.0.1), you will need to flash it AGAIN with his lastest release `evil-portal-0.0.2` or newer for this portal to work. It has an improved size limit for the HTML files (20k characters up from 4k) which I utilized to create a more advanced/realisic Google portal than the default portal that comes with it.
+If you have [bigbrodude6119](https://github.com/bigbrodude6119)'s first released firmware flashed onto your WifiDevBoard (evil-portal-0.0.1), you will need to flash it AGAIN with the release `evil-portal-0.0.2` <ins>or newer</ins> for this portal to work. It has an improved size limit for the HTML files (20k characters up from 4k) which I utilized to create a more advanced/realisic Google portal than the default portal that comes with it.
 
 Click [here](https://github.com/bigbrodude6119/flipper-zero-evil-portal/releases/tag/0.0.2) to do that.
 
