@@ -2,7 +2,7 @@
 This is a <ins>better</ins> Google portal I've created for [bigbrodude6119](https://github.com/bigbrodude6119)'s EvilPortal for the Flipper-Zero.
 
 
-- ${\color{red}   CAUTION    }$: This is intended for <ins>educational purposes</ins> **ONLY**! Phishing is highly illegal and I do not condone any unethical and/or harmful usage of this resource. Please experiment only on personal equipment and in an controlled environment. You have been warned.
+- ${\color{red}   CAUTION    }$: This is intended for <ins>educational purposes</ins> **ONLY**! Phishing is highly illegal and I do not condone any unethical and/or harmful usage of this resource. Please experiment only on personal equipment and in a controlled environment. You have been warned.
 
 ![image](https://github.com/Shlucus/FlipperZero-GooglePortal/assets/111912000/d2f1a3cc-951a-46be-8254-02716b5e0b5d)
 
