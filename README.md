@@ -16,7 +16,7 @@ This is an <ins>improved</ins> Google portal I've created for [bigbrodude6119](h
 - Resembles Google's modern UI.
 
 ## Overview:
-This repo contains a single HTML file(JS & CSS incl.) to be used in combination of a Flipper Zero + WifiDevBoard(ESP32-S2) to conduct a captive portal / phishing attack. This allows this page to be publicly broadcasted via an access point hosted by the WifiDevBoard. Upon access, whatever is inputted by a user will be sent directly to the Flipper-Zero.
+This repo contains a single HTML file(JS & CSS incl.) to be used in combination of a Flipper Zero + WifiDevBoard(ESP32-S2) to conduct a captive portal / phishing attack. This allows this page to be publicly broadcasted via an access point hosted by the WifiDevBoard. Upon access, whatever credentials are inputted by a user will be sent directly to the Flipper-Zero.
 
 > [!NOTE]
 > If you have [bigbrodude6119](https://github.com/bigbrodude6119)'s first released firmware flashed onto your WifiDevBoard (evil-portal-0.0.1), you will need to flash it AGAIN with the release `evil-portal-0.0.2` 
