@@ -1,5 +1,8 @@
 # <i>FlipperZero-GooglePortal</i>
-![Screenshot 2024-10-02 162951](https://github.com/user-attachments/assets/4ce8197e-4017-4713-abde-1d63321c0253)
+![Google-ezgif com-crop](https://github.com/user-attachments/assets/ab5f06f5-9ad0-40a1-922d-6827457f3f66)
+
+
+
 
 
 
