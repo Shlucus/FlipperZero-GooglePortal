@@ -1,10 +1,4 @@
 # <i>FlipperZero-GooglePortal</i>
-![Google-ezgif com-crop](https://github.com/user-attachments/assets/ab5f06f5-9ad0-40a1-922d-6827457f3f66)
-
-
-
-
-
 
 
 > [!CAUTION]
