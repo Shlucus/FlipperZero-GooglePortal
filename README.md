@@ -2,7 +2,9 @@
 
 
 > [!CAUTION]
-> This is intended for <ins>experimental purposes</ins> **ONLY**! Phishing is highly illegal and I do not condone any unethical and/or harmful usage of this resource. Please experiment only on personal equipment and in a controlled environment. You have been warned.
+> This is intended for <ins>**educational purposes**</ins> only!! Phishing is highly illegal and I do not condone any unethical and/or harmful usage of this resource. Please experiment only on personal equipment and in a controlled environment. You have been warned.
+> 
+> In addition, this project is <ins>**not affiliated with or endorsed by Google**</ins> in any way.
 
 ## Overview:
 This is an <ins>improved</ins> Google portal I've created for [bigbrodude6119](https://github.com/bigbrodude6119)'s EvilPortal app for the Flipper-Zero.
