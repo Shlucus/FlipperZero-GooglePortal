@@ -2,7 +2,7 @@
 
 
 > [!CAUTION]
-> This is intended for <ins>**educational purposes**</ins> only! Phishing is highly illegal and I do not condone any unethical and/or harmful usage of this resource. Please experiment only on personal equipment and in a controlled environment. You have been warned.
+> This is intended for <ins>**educational purposes**</ins> only! Phishing is illegal and I do not condone any unethical and/or harmful usage of this resource. Please experiment only on personal equipment and in a controlled environment. You have been warned.
 > 
 > In addition, this project and I are <ins>**not affiliated with or endorsed by Google**</ins> in any way.
 
@@ -23,7 +23,7 @@ This repo contains a single HTML file(JS & CSS incl.) to be used in combination 
 - Resembles Google's modern UI.
 
 > [!NOTE]
-> If you have [bigbrodude6119](https://github.com/bigbrodude6119)'s first released firmware flashed onto your WifiDevBoard (evil-portal-0.0.1), you will need to flash it AGAIN with the release `evil-portal-0.0.2` 
+> If you have [bigbrodude6119](https://github.com/bigbrodude6119)'s first released firmware flashed onto your WifiDevBoard (evil-portal-0.0.1), you will need to flash it with the release `evil-portal-0.0.2` 
  <ins>or newer</ins> for this portal to work. It has an improved size limit for the HTML files (20k characters up from 4k) which I utilized to create a more advanced/realisic Google portal than the default portal 
  that comes with it.
 
